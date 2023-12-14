@@ -6,7 +6,6 @@
  * Description: print size various type of compiles
  *
  * Return: 0
- *
  */
 
 int main(void)

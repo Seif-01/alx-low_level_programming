@@ -6,7 +6,6 @@
  * Description: prints a specific message
  *
  * Return: always 0
- *
  */
 
 int main(void)
