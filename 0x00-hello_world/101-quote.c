@@ -3,7 +3,7 @@
 /**
  * main - Entry point
  * Description: simple operating system
- * Return: 1
+ * Return: 1 (Error)
  */
 
 int main(void)
