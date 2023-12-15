@@ -27,6 +27,9 @@ case 6:
 case 7:
     printf("Sunday\n");
     break;
+defaukt:
+     printf("choose number from 1 to 7 only\n");
+     break;
 }
 return(0);
 }
