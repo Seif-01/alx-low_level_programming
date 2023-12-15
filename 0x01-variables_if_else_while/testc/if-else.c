@@ -12,8 +12,8 @@ int main(void)
 if
 (x = 0)
 {
-printf("i do not exist");
-} else { printf("i exist");
+printf("i do not exist\n");
+} else { printf("i exist\n");
 }
 return(0);
 }
