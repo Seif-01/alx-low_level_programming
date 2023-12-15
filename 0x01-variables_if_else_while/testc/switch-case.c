@@ -7,25 +7,25 @@ scanf("%d", &day);
 
 switch(day){
 case 1:
-    printf("Monday");
+    printf("Monday\n");
     break;
 case 2:
-    printf("Thuesday");
+    printf("Thuesday\n");
     break;
 case 3:
-    printf("Wensday");
+    printf("Wensday\n");
     break;
 case 4:
-    printf("Thursday");
+    printf("Thursday\n");
     break;
 case 5:
-    printf("Friday");
+    printf("Friday\n");
     break;
 case 6:
-    printf("Saturday");
+    printf("Saturday\n");
     break;
 case 7:
-    printf("Sunday");
+    printf("Sunday\n");
     break;
 }
 return(0);
