@@ -29,7 +29,6 @@ case 7:
     break;
 defaukt:
      printf("choose number from 1 to 7 only\n");
-     break;
 }
 return(0);
 }
