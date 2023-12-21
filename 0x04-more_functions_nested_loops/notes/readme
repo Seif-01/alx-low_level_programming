@@ -1,0 +1,56 @@
+# C Programming - More Functions, More Nested Loops
+
+This repository contains C programs created as part of the ALX Software Engineering program. The programs demonstrate various functions and nested loops.
+
+## File Descriptions
+
+0. \_isupper.c
+   - Contains a function to check for uppercase characters.
+
+1. \_isdigit.c
+   - Contains a function to check for a digit (0 through 9).
+
+2. 2-mul.c
+   - Includes a function to multiply two integers.
+
+3. 3-print_numbers.c
+   - Prints numbers from 0 to 9 using `_putchar` only twice.
+
+4. 4-print_most_numbers.c
+   - Prints numbers from 0 to 9, excluding 2 and 4.
+
+5. 5-more_numbers.c
+   - Prints numbers 10 times from 0 to 14.
+
+6. 6-print_line.c
+   - Prints a straight line using `_putchar`.
+
+7. 7-print_diagonal.c
+   - Prints a diagonal line using `_putchar`.
+
+8. 8-print_square.c
+   - Prints a square using `_putchar`.
+
+9. 9-fizz_buzz.c
+   - Prints numbers from 1 to 100 with specific rules (Fizz, Buzz, FizzBuzz).
+
+10. 10-print_triangle.c
+    - Prints a triangle using `_putchar`.
+
+11. 100-prime_factor.c
+    - Finds the largest prime factor of a specific number.
+
+12. 101-print_number.c
+    - Prints an integer using `_putchar`.
+
+## How to Use
+
+Compile the C files using a C compiler such as GCC:
+
+Run the compiled file:
+./<output_filename>
+
+Make sure to replace <filename.c> with the relevant C file and <output_filename> with the desired name for the compiled output.
+
+This abbreviated README file provides a brief description of each C file in the repository along with instructions on how to compile and run the programs. Adjustments can be made according to your specific requirements.
+
