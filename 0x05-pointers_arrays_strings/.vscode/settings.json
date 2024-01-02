@@ -1,4 +1,5 @@
 {
+  "git. autorefresh": true,
   "C_Cpp_Runner.msvcBatchPath": "",
   "C_Cpp_Runner.cCompilerPath": "gcc",
   "C_Cpp_Runner.cppCompilerPath": "g++",
@@ -50,7 +51,6 @@
     "**/.vscode",
     "**/.vscode/**"
   ],
-  "git. autorefresh": true,
   "C_Cpp_Runner.useAddressSanitizer": false,
   "C_Cpp_Runner.useUndefinedSanitizer": false,
   "C_Cpp_Runner.useLeakSanitizer": false,
