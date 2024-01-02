@@ -4,10 +4,11 @@
 * @s: string
 * Return: length
 */
-int _strlen(char *s);
+int _strlen(char *s)
 {
-int x ;
-for (x = 0 ; *s != '\0' ; s++ )
+int x;
+for 
+(x = 0 ; *s != '\0' ; s++);
 ++x;
 return 0;
 }
