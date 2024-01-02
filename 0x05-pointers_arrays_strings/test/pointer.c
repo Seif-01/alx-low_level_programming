@@ -17,4 +17,5 @@ printf("value of *ptr = %d\n",*ptr);
 int main(){
     func1();
     return 0;
-}
+
+} 
