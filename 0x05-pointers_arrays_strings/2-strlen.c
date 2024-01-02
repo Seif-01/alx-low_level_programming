@@ -12,5 +12,5 @@ for
 *s != '\0';
 s++);
 ++x;
-return 0;
+return (x);
 }
