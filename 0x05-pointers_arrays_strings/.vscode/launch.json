@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/root/alx-low_level_programming/0x05-pointers_arrays_strings/test",
-      "program": "/root/alx-low_level_programming/0x05-pointers_arrays_strings/test/build/Debug/outDebug",
+      "cwd": "/root/alx-low_level_programming/0x05-pointers_arrays_strings",
+      "program": "/root/alx-low_level_programming/0x05-pointers_arrays_strings/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
