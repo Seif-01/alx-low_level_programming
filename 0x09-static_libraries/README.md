@@ -80,3 +80,13 @@ Add _putchar function to write a character to stdout.
 
    ```bash
    ./create_static_lib.sh
+   
+2. Link the library to your program during compilation:
+
+gcc -std=gnu89 main.c -L. -lmy -o my_program
+
+3. Run the compiled program:
+
+    ./my_program
+
+Feel free to use or modify these files as needed!
