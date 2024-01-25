@@ -1,4 +1,4 @@
-Integer Index Main#include <stdio.h>
+include <stdio.h>
 #include "function_pointers.h"
 
 /**
